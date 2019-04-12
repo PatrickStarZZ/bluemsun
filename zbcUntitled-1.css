@@ -12,13 +12,9 @@ div.icon{
 } 
 
 div.demo:hover{
-    border: 1px solid black;
+    border: 1px double black;
     cursor: pointer;
 } 
-div.icon:hover{
-    border: 1px solid black;
-    cursor: pointer;
-}
 .one {
     position: relative;
     display: inline-block;
